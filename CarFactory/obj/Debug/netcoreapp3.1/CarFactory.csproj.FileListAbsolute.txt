@@ -1,0 +1,13 @@
+C:\Users\Aleena\source\repos\CarFactory\CarFactory\bin\Debug\netcoreapp3.1\CarFactory.exe
+C:\Users\Aleena\source\repos\CarFactory\CarFactory\bin\Debug\netcoreapp3.1\CarFactory.deps.json
+C:\Users\Aleena\source\repos\CarFactory\CarFactory\bin\Debug\netcoreapp3.1\CarFactory.runtimeconfig.json
+C:\Users\Aleena\source\repos\CarFactory\CarFactory\bin\Debug\netcoreapp3.1\CarFactory.runtimeconfig.dev.json
+C:\Users\Aleena\source\repos\CarFactory\CarFactory\bin\Debug\netcoreapp3.1\CarFactory.dll
+C:\Users\Aleena\source\repos\CarFactory\CarFactory\bin\Debug\netcoreapp3.1\CarFactory.pdb
+C:\Users\Aleena\source\repos\CarFactory\CarFactory\obj\Debug\netcoreapp3.1\CarFactory.csprojAssemblyReference.cache
+C:\Users\Aleena\source\repos\CarFactory\CarFactory\obj\Debug\netcoreapp3.1\CarFactory.AssemblyInfoInputs.cache
+C:\Users\Aleena\source\repos\CarFactory\CarFactory\obj\Debug\netcoreapp3.1\CarFactory.AssemblyInfo.cs
+C:\Users\Aleena\source\repos\CarFactory\CarFactory\obj\Debug\netcoreapp3.1\CarFactory.csproj.CoreCompileInputs.cache
+C:\Users\Aleena\source\repos\CarFactory\CarFactory\obj\Debug\netcoreapp3.1\CarFactory.dll
+C:\Users\Aleena\source\repos\CarFactory\CarFactory\obj\Debug\netcoreapp3.1\CarFactory.pdb
+C:\Users\Aleena\source\repos\CarFactory\CarFactory\obj\Debug\netcoreapp3.1\CarFactory.genruntimeconfig.cache
